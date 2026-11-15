@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srijan-neogi
-- 👀 I’m a PhD candidate in Solid Mechanics at Brown University
+- 👀 I’m a PostDoctoral Research Associate in Hopkins Extreme Materials Institute
 - 🌱 I’m currently learning how to write VUMAT for modelling viscoelastic materials in ABAQUS.
 - 📫 Feel free to reach me at srijanneogi1997@gmail.com
 
